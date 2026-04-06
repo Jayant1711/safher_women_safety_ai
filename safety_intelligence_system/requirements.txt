@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+torch
+torch_geometric
+pandas
+scikit-learn
+requests
+osmnx
+pydantic
+kagglehub[pandas-datasets]
